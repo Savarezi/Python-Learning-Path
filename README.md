@@ -4,6 +4,9 @@
 
 Bem-vindo ao meu repositório de aprendizado de Python! Este repositório está organizado em três níveis de progresso:  **Básico** , **Intermediário** e  **Avançado** . Cada módulo contém exercícios e exemplos que cobrem diversos conceitos do Python.
 
+![giphy](https://github.com/user-attachments/assets/18dad18d-fb52-4245-b885-41e1bfe512af)
+
+
 ## Módulo Básico 🧑‍💻
 
 Este módulo é perfeito para iniciantes e abrange os conceitos fundamentais da linguagem Python.
